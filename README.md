@@ -1,6 +1,5 @@
-# ELK-Project
 
-# University of Texas Cybersecurity Project
+# The University of Texas Cybersecurity Project
 ## ELK Stack Project
 
 The files in this repository were used to configure the network depicted below.
