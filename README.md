@@ -3,7 +3,8 @@
 ## ELK Stack Project
 
 The files in this repository were used to configure the network depicted below.
-![image](https://user-images.githubusercontent.com/79611775/121270889-2a8e2c00-c888-11eb-913a-7fa67aecb7fa.png)
+![image](https://user-images.githubusercontent.com/79611775/121761988-f53c4500-caf8-11eb-8d66-99789f26e7b4.png)
+
 
 
 
